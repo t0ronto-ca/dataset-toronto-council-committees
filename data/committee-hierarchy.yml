@@ -1,0 +1,30 @@
+---
+name:
+  'City Council':
+    name:
+      - 'Audit Committee'
+      - 'Board of Health':
+        name:
+          - 'Toronto Public Health'
+      - 'Civic Appointments Committee':
+        name:
+          - '^Interview Subcommittee'
+      - 'Striking Committee':
+        name:
+          - 'Affordable Housing Committee'
+          - 'Budget Committee':
+            name:
+              - '^Budget Subcommittee'
+          - 'Employee and Labour RElations Committee'
+    classification:
+      - community-council
+      - standing-policy-committee
+      - agency
+      - adjudicative-body
+
+name:
+  'Civic Theatres Toronto':
+    name:
+      - 'Sony Centre'
+      - 'St. Lawrence Centre'
+      - 'Toronto Centre'

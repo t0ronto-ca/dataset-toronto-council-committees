@@ -1,0 +1,264 @@
+---
+- name: City Council
+- name: Audit Committee
+  classification: other-committee
+- name: Board of Health
+  classification: other-committee
+- name: Civic Appointments Committee
+  classification: other-committee
+- name: Community Development and Recreation Committee
+  classification: standing-policy-committee
+- name: Economic Development Committee
+  classification: standing-policy-committee
+- name: Executive Committee
+- name: Government Management Committee
+  classification: standing-policy-committee
+- name: Licensing and Standards Committee
+  classification: standing-policy-committee
+- name: Parks and Environment Committee
+  classification: standing-policy-committee
+- name: Planning and Growth Management Committee
+  classification: standing-policy-committee
+- name: Public Works and Infrastructure Committee
+  classification: standing-policy-committee
+- name: Striking Committee
+  classification: other-committee
+- name: Etobicoke York Community Council
+  classification: community-council
+- name: North York Community Council
+  classification: community-council
+- name: Scarborough Community Council
+  classification: community-council
+- name: Toronto and East York Community Council
+  classification: community-council
+- name: Aboriginal Affairs Committee
+- name: Afforable Housing Committee
+  classification: executive
+- name: Bid Award Panel
+  founding_date: 2017-1-1
+  identifier: BA
+  other_names:
+    - name: Bid Committee
+- name: Bid Committee
+  dissolution_date: 2017-1-1
+  identifier: BD
+- name: Board of Directors of Civic Theatres Toronto
+  classification: agency
+  other_names:
+    - name: Civic Theatres Toronto
+      note: short
+  founding_date: 2015-7-9
+- name: Board of Directors of the Sony Centre for the Performing Arts
+  classification: agency
+  other_names:
+    - name: Board of Directors of The Hummingbird (Sony) Centre for the Performing Arts
+    - name: Board of Directors of the Hummingbird Centre
+    - name: Board of Directors of the O'Keefe Centre
+- name: Board of Directors of the St. Lawrence Centre for the Arts
+  classification: agency
+- name: Board of Directors of the Toronto Atmospheric Fund
+  classification: agency
+  other_names:
+    - name: Toronto Atmospheric Fund
+      note: short
+- name: Board of Directors of the Toronto Centre for the Arts
+  classification: agency
+  other_names:
+    - name: Toronto Centre for the Arts
+      note: short
+    - name: North York Performing Arts Centre Corporation
+- name: Board of Governors of Exhibition Place
+  classification: agency
+  other_names:
+    - name: Exhibition Place
+      note: short
+- name: Toronto Public Health
+  classification: agency
+  other_names:
+    - name: TPH
+      note: acronym
+- name: Board of Health - Performance Appraisals of the Mdeical Officer of Health
+- name: Board of Health Budget Committee
+- name: Board of Health Public Hleath Champion Awards Selection Committee
+- name: Board of Health Toronto Urban Health Fund Review Panel
+- name: Board of Management of the Toronto Zoo
+  classification: agency
+  other_names:
+    - name: Toronto Zoo
+      note: short
+- name: Budget Committee
+  classification: executive
+- name: Budget Subcommittee - Etobicoke, North York and York Civic Centres Consultation
+- name: Budget Subcommittee - City Hall,Scarborough, East York Civic Centre Consultation
+- name: City-School Boards Advisory Committee
+- name: Debenture Committee
+- name: Disability, Access and Inclusion Advisory Committee
+- name: Employee and Labour Relations Committee
+  classification: executive
+- name: Exhibition Place Official Plan Amendment Subcommittee
+- name: Forest Hill, Leaside and North Toronto Arena Nominating Panel
+- name: French Language Advisory Committee
+- name: French Language Advisory Committee
+- name: Graffiti Panel
+- name: Interview Subcommittee for Board of Health
+- name: Interview Subcommittee for Toronto Parking Authority
+- name: Interview Subcommittee for Toronto Police Services Board
+- name: Interview Subcommittee for Toronto Port Authority
+- name: Interview Subcommittee for Toronto Public Library Board
+- name: Interview Subcommittee for Toronto Transit Commission
+- name: Interview Subcommittee for Toronto Zoo Board
+- name: Liquor Licensing Issues Task Force
+- name: McCormick and Bill Bolton Arena Nominating Panel
+- name: Members of the Toronto Atmospheric Fund
+- name: Nominating Panel - City Theatres
+- name: Nominating Panel - Committee of Adjustment
+- name: Nominating Panel - Corporations
+- name: Nominating Panel - Environmental
+- name: Nominating Panel - Facilities and Finance
+- name: Nominating Panel - Local Appeal Body
+- name: Nominating Panel - Tribunals
+- name: Parks and Environment Subcommittee on Climate Change Mitigation and Adaptation
+- name: Property Standards - Etobicoke York Panel
+- name: Property Standards - North York Panel
+- name: Property Standards - Scarborough Panel
+- name: Property Standards - Toronto and East York Panel
+- name: Real Estate Advisory Committee
+- name: Tenant Issues Committee
+- name: Toronto Film, Television and Digital Media Board
+- name: Toronto Music Industry Advisory Council
+- name: Toronto Preservation Board
+- name: Heritage Toronto
+  classification: agency
+- name: Toronto Parking Authority
+  classification: agency
+- name: Toronto Police Services Board
+  classification: agency
+- name: Toronto Public Library Board
+  classification: agency
+- name: Toronto Transit Commission
+  classification: agency
+  other_names:
+    - name: TTC
+      note: short
+- name: Yonge-Dundas Square Board of Management
+  classification: agency
+  other_names:
+    - name: Yonge-Dundas Square
+      note: short
+- name: Toronto and Region Conservation Authority
+  classification: agency
+  other_names:
+    - name: Conversation Authority
+      note: short
+  extras:
+    subclassification: partnered
+- name: George Bell Arena
+  classification: agency
+- name: Larry Grossman Forest Hill Memorial Arena
+  classification: agency
+- name: Leaside Memorial Community Gardens Arena
+  classification: agency
+- name: McCormick Playground Arena
+  classification: agency
+- name: Moss Park Arena
+  classification: agency
+- name: North Toronto Memorial Arena
+  classification: agency
+- name: Ted Reeve Community Arena
+  classification: agency
+- name: William H. Bolton Arena
+  classification: agency
+- name: 519 Church Street Community Centre
+  classification: agency
+- name: Applegrove Community Complex
+  classification: agency
+- name: Cecil Street Community Centre
+  classification: agency
+- name: Central Eglinton Community Centre
+  classification: agency
+- name: Community Centre 55
+  classification: agency
+- name: Eastview Neighborhood Community Centre
+  classification: agency
+- name: Harbourfront Community Centre
+  classification: agency
+- name: Ralph Thornton Community Centre
+  classification: agency
+- name: Scadding Court Community Centre
+  classification: agency
+- name: Swansea Town Hall Community Centre
+  classification: agency
+- name: Build Toronto
+  classification: corporation
+  extras:
+    subclassification: city
+- name: Casa Loma Corporation
+  classification: corporation
+  extras:
+    subclassification: city
+  other_names:
+    - name: Casa Loma
+      note: short
+- name: Invest Toronto Inc.
+  classification: corporation
+  extras:
+    subclassification: city
+  other_names:
+    - name: Invest Toronto
+      note: short
+- name: Lakeshore Arena Corporation
+  classification: corporation
+  extras:
+    subclassification: city
+  other_names:
+    - name: Lakeshore Arena
+      note: short
+- name: Toronto Community Housing Corporation
+  extras:
+    subclassification: city
+  classification: corporation
+  other_names:
+    - name: Toronto Community Housing
+      note: short
+    - name: TCHC
+      note: acronym
+- name: Toronto Hydro Corporation
+  classification: corporation
+  extras:
+    subclassification: city
+  other_names:
+    - name: Toronto Hydro
+      note: short
+- name: Toronto Port Lands Company
+  classification: corporation
+  extras:
+    subclassification: city
+  other_names:
+    - name: Toronto Port Lands
+      note: short
+    - name: Toronto Economic Development Corporation
+- name: Toronto Pan Am Sports Centre Inc.
+  classification: corporation
+  extras:
+    subclassification: partnered
+- name: Waterfront Toronto
+  classification: corporation
+  extras:
+    subclassification: partnered
+  other_names:
+    - name:Toronto Waterfront Revitalization Corporation
+- name: Committee of Adjustment
+  classification: adjudicative-body
+- name: Committee of Revision
+  classification: adjudicative-body
+- name: Compliance Audit Committee
+  classification: adjudicative-body
+- name: Property Standards Committee
+  classification: adjudicative-body
+  other_names:
+    - name: Fence Viewers
+- name: Rooming House Licensing Commissioner
+  classification: adjudicative-body
+  extras:
+    subclassification: officers
+# vim:ft=ansible

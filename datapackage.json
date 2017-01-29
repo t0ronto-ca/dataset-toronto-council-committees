@@ -36,8 +36,17 @@
     "url": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD"
   },
   "sources": [{
-    "name": "",
-    "web": ""
+    "name": "Agencies and Corporations - Chart",
+    "web": "http://www1.toronto.ca/City%20Of%20Toronto/City%20Managers%20Office/Agencies%20and%20Corporations/Files/pdf/Agency%20Chart%20July%2013%202015.pdf"
+  },{
+    "name": "Learning Guides - City Council and its Committees",
+    "web": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=762b6804e1f22410VgnVCM10000071d60f89RCRD&vgnextchannel=9632acb640c21410VgnVCM10000071d60f89RCRD"
+  },{
+    "name": "Agencies and Corporations - Civic Theatres",
+    "web": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=371e2a481057b410VgnVCM10000071d60f89RCRD&vgnextchannel=3426ea64460b3410VgnVCM10000071d60f89RCRD"
+  },{
+    "name": "TMMIS - Committees",
+    "web": "http://app.toronto.ca/tmmis/decisionBodyList.do?function=prepareDisplayDBList"
   }],
   "repository": "https://github.com/t0ronto-ca/dataset-toronto-council-committees"
 }
