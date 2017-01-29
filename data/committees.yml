@@ -91,6 +91,8 @@
   other_names:
     - name: Toronto Atmospheric Fund
       note: short
+    - name: TAF
+      note: acronym
 - name: Board of Directors of the Toronto Centre for the Arts
   classification: agency
   other_names:
@@ -126,6 +128,10 @@
   dissolution_date: 2018-11-30
 - name: Debenture Committee
 - name: Disability, Access and Inclusion Advisory Committee
+  identifier: DI
+  other_names:
+    - name: Disability Issues Committee
+      end_date: 2015-07-07
 - name: Employee and Labour Relations Committee
   classification: executive
 - name: Exhibition Place Official Plan Amendment Subcommittee
@@ -302,6 +308,7 @@
   classification: adjudicative-body
 - name: Compliance Audit Committee
   classification: adjudicative-body
+  founding_date: 2006
 - name: Property Standards Committee
   classification: adjudicative-body
   other_names:
