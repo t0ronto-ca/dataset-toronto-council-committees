@@ -11,8 +11,12 @@
 - name: Economic Development Committee
   classification: standing-policy-committee
 - name: Executive Committee
+  classification: executive
 - name: Government Management Committee
   classification: standing-policy-committee
+  other_names:
+    - name: General Government Committee
+      end_date: 2007-3
 - name: Licensing and Standards Committee
   classification: standing-policy-committee
 - name: Parks and Environment Committee
@@ -25,14 +29,40 @@
   classification: other-committee
 - name: Etobicoke York Community Council
   classification: community-council
+  founding_date: 1997
+  other_names:
+    - name: Etobicoke Community Council
+      end_date: 2004-7
+      start_date: 2001-7
+    - name: Toronto West Community Council
+      end_date: 2001-7
+      start_date: 1997
+    - name: West Community Council
 - name: North York Community Council
   classification: community-council
+  founding_date: 1997
+  other_names:
+    - name: Toronto North Community Council
+      end_date: 2004-7
+      start_date: 1997
+    - name: North Community Council
 - name: Scarborough Community Council
   classification: community-council
+  founding_date: 1997
+  other_names:
+    - name: Toronto East Community Council
+    - name: East Community Council
 - name: Toronto and East York Community Council
   classification: community-council
+  founding_date: 1997
+  other_names:
+    - name: Toronto South Community Council
+    - name: Downtown Community Council
 - name: Aboriginal Affairs Committee
-- name: Afforable Housing Committee
+  classification: council-advisory-body
+  founding_date: 2011-5-19
+  dissolution_date: 2018-11-30
+- name: Affordable Housing Committee
   classification: executive
 - name: Bid Award Panel
   founding_date: 2017-1-1
@@ -91,6 +121,9 @@
 - name: Budget Subcommittee - Etobicoke, North York and York Civic Centres Consultation
 - name: Budget Subcommittee - City Hall,Scarborough, East York Civic Centre Consultation
 - name: City-School Boards Advisory Committee
+  classification: council-advisory-body
+  founding_date: 2015-2-11
+  dissolution_date: 2018-11-30
 - name: Debenture Committee
 - name: Disability, Access and Inclusion Advisory Committee
 - name: Employee and Labour Relations Committee
@@ -98,7 +131,10 @@
 - name: Exhibition Place Official Plan Amendment Subcommittee
 - name: Forest Hill, Leaside and North Toronto Arena Nominating Panel
 - name: French Language Advisory Committee
-- name: French Language Advisory Committee
+  classification: council-advisory-body
+  founding_date: 2015-2-11
+  dissolution_date: 2018-11-30
+- name: George Bell Arena Nominating Panel
 - name: Graffiti Panel
 - name: Interview Subcommittee for Board of Health
 - name: Interview Subcommittee for Toronto Parking Authority
@@ -124,8 +160,21 @@
 - name: Property Standards - Toronto and East York Panel
 - name: Real Estate Advisory Committee
 - name: Tenant Issues Committee
+  classification: council-advisory-body
+  founding_date: 2015-2-11
+  dissolution_date: 2018-11-30
 - name: Toronto Film, Television and Digital Media Board
+  classification: council-advisory-body
+  founding_date: 2015-2-11
+  dissolution_date: 2018-11-30
+  other_names:
+    - name: Film, Television and Commercial Production Industry Committee
+      start_date: 2015-2-11
+      end_date: 2015-7-7
 - name: Toronto Music Industry Advisory Council
+  classification: council-advisory-body
+  founding_date: 2015-2-11
+  dissolution_date: 2018-11-30
 - name: Toronto Preservation Board
 - name: Heritage Toronto
   classification: agency
