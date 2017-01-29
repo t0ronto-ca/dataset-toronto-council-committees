@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "name": "data",
+      "path": "data/data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "column_1",
+            "type": "string",
+            "description": "First column"
+          },
+          {
+            "name": "column_2",
+            "type": "string",
+            "description": "Second column"
+          },
+          {
+            "name": "column_3",
+            "type": "string",
+            "description": "Third column"
+          }
+        ]
+      }
+    }
+  ],
+  "name": "dataset-toronto-council-committees",
+  "title": "Council Committees",
+  "description": "A dataset containing current committee data for Toronto City Hall",
+  "homepage": "",
+  "version": "0.1.0",
+  "license": {
+    "type": "OGL-Toronto-1.0",
+    "url": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD"
+  },
+  "sources": [{
+    "name": "",
+    "web": ""
+  }],
+  "repository": "https://github.com/t0ronto-ca/dataset-toronto-council-committees"
+}
+
