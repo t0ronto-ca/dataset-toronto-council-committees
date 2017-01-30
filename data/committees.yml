@@ -8,24 +8,42 @@
   classification: committee
   extras:
     subclassification: other
+  identifiers:
+    - scheme: tmmis_code
+      identifier: AU
 - name: Board of Health
   classification: committee
   extras:
     subclassification: other
+  identifiers:
+    - scheme: tmmis_code
+      identifier: HL
 - name: Civic Appointments Committee
   classification: committee
   extras:
     subclassification: other
+  identifiers:
+    - scheme: tmmis_code
+      identifier: CA
 - name: Community Development and Recreation Committee
   classification: committee
   extras:
     subclassification: standing-policy
+  identifiers:
+    - scheme: tmmis_code
+      identifier: CD
 - name: Economic Development Committee
   classification: committee
   extras:
     subclassification: standing-policy
+  identifiers:
+    - scheme: tmmis_code
+      identifier: ED
 - name: Executive Committee
   classification: executive
+  identifiers:
+    - scheme: tmmis_code
+      identifier: EX
 - name: Government Management Committee
   classification: committee
   extras:
@@ -33,10 +51,16 @@
   other_names:
     - name: General Government Committee
       end_date: 2007-03
+  identifiers:
+    - scheme: tmmis_code
+      identifier: GM
 - name: Licensing and Standards Committee
   classification: committee
   extras:
     subclassification: standing-policy
+  identifiers:
+    - scheme: tmmis_code
+      identifier: LS
 - name: Parks and Environment Committee
   classification: committee
   extras:
@@ -102,12 +126,16 @@
   classification: executive
 - name: Bid Award Panel
   founding_date: 2017-01-01
-  identifier: BA
+  identifiers:
+    - scheme: tmmis_code
+      identifier: BA
   other_names:
     - name: Bid Committee
 - name: Bid Committee
   dissolution_date: 2017-01-01
-  identifier: BD
+  identifiers:
+    - scheme: tmmis_code
+      identifier: BD
 - name: Board of Directors of Civic Theatres Toronto
   classification: agency
   other_names:
@@ -166,7 +194,9 @@
   dissolution_date: 2018-11-30
 - name: Debenture Committee
 - name: Disability, Access and Inclusion Advisory Committee
-  identifier: DI
+  identifiers:
+    - scheme: tmmis_code
+      identifier: DI
   other_names:
     - name: Disability Issues Committee
       end_date: 2015-07-07
