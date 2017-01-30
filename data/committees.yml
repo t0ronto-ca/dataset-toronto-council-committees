@@ -1,32 +1,54 @@
 ---
 - name: City Council
 - name: Audit Committee
-  classification: other-committee
+  classification: committee
+  extras:
+    subclassification: other
 - name: Board of Health
-  classification: other-committee
+  classification: committee
+  extras:
+    subclassification: other
 - name: Civic Appointments Committee
-  classification: other-committee
+  classification: committee
+  extras:
+    subclassification: other
 - name: Community Development and Recreation Committee
-  classification: standing-policy-committee
+  classification: committee
+  extras:
+    subclassification: standing-policy
 - name: Economic Development Committee
-  classification: standing-policy-committee
+  classification: committee
+  extras:
+    subclassification: standing-policy
 - name: Executive Committee
   classification: executive
 - name: Government Management Committee
-  classification: standing-policy-committee
+  classification: committee
+  extras:
+    subclassification: standing-policy
   other_names:
     - name: General Government Committee
       end_date: 2007-3
 - name: Licensing and Standards Committee
-  classification: standing-policy-committee
+  classification: committee
+  extras:
+    subclassification: standing-policy
 - name: Parks and Environment Committee
-  classification: standing-policy-committee
+  classification: committee
+  extras:
+    subclassification: standing-policy
 - name: Planning and Growth Management Committee
-  classification: standing-policy-committee
+  classification: committee
+  extras:
+    subclassification: standing-policy
 - name: Public Works and Infrastructure Committee
-  classification: standing-policy-committee
+  classification: committee
+  extras:
+    subclassification: standing-policy
 - name: Striking Committee
-  classification: other-committee
+  classification: committee
+  extras:
+    subclassification: other
 - name: Etobicoke York Community Council
   classification: community-council
   founding_date: 1997
