@@ -56,30 +56,30 @@
   classification: committee
   extras:
     subclassification: community-council
-  founding_date: 1997
+  founding_date: 1997'
   other_names:
     - name: Etobicoke Community Council
       end_date: 2004-07
       start_date: 2001-07
     - name: Toronto West Community Council
       end_date: 2001-07
-      start_date: 1997
+      start_date: '1997'
     - name: West Community Council
 - name: North York Community Council
   classification: committee
   extras:
     subclassification: community-council
-  founding_date: 1997
+  founding_date: '1997'
   other_names:
     - name: Toronto North Community Council
       end_date: 2004-07
-      start_date: 1997
+      start_date: '1997'
     - name: North Community Council
 - name: Scarborough Community Council
   classification: committee
   extras:
     subclassification: community-council
-  founding_date: 1997
+  founding_date: '1997'
   other_names:
     - name: Toronto East Community Council
     - name: East Community Council
@@ -87,7 +87,7 @@
   classification: committee
   extras:
     subclassification: community-council
-  founding_date: 1997
+  founding_date: '1997'
   other_names:
     - name: Toronto South Community Council
     - name: Downtown Community Council
@@ -359,7 +359,7 @@
   classification: committee
   extras:
     subclassification: adjudicative-body
-  founding_date: 2006
+  founding_date: '2006'
 - name: Property Standards Committee
   classification: committee
   extras:
