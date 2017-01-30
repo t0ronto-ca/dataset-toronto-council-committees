@@ -92,7 +92,9 @@
     - name: Toronto South Community Council
     - name: Downtown Community Council
 - name: Aboriginal Affairs Committee
-  classification: council-advisory-body
+  classification: committee
+  extras:
+    subclassification: council-advisory-body
   founding_date: 2011-5-19
   dissolution_date: 2018-11-30
 - name: Affordable Housing Committee
@@ -156,7 +158,9 @@
 - name: Budget Subcommittee - Etobicoke, North York and York Civic Centres Consultation
 - name: Budget Subcommittee - City Hall,Scarborough, East York Civic Centre Consultation
 - name: City-School Boards Advisory Committee
-  classification: council-advisory-body
+  classification: committee
+  extras:
+    subclassification: council-advisory-body
   founding_date: 2015-2-11
   dissolution_date: 2018-11-30
 - name: Debenture Committee
@@ -170,7 +174,9 @@
 - name: Exhibition Place Official Plan Amendment Subcommittee
 - name: Forest Hill, Leaside and North Toronto Arena Nominating Panel
 - name: French Language Advisory Committee
-  classification: council-advisory-body
+  classification: committee
+  extras:
+    subclassification: council-advisory-body
   founding_date: 2015-2-11
   dissolution_date: 2018-11-30
 - name: George Bell Arena Nominating Panel
@@ -199,11 +205,15 @@
 - name: Property Standards - Toronto and East York Panel
 - name: Real Estate Advisory Committee
 - name: Tenant Issues Committee
-  classification: council-advisory-body
+  classification: committee
+  extras:
+    subclassification: council-advisory-body
   founding_date: 2015-2-11
   dissolution_date: 2018-11-30
 - name: Toronto Film, Television and Digital Media Board
-  classification: council-advisory-body
+  classification: committee
+  extras:
+    subclassification: council-advisory-body
   founding_date: 2015-2-11
   dissolution_date: 2018-11-30
   other_names:
@@ -336,18 +346,26 @@
   other_names:
     - name:Toronto Waterfront Revitalization Corporation
 - name: Committee of Adjustment
-  classification: adjudicative-body
+  classification: committee
+  extras:
+    subclassification: adjudicative-body
 - name: Committee of Revision
-  classification: adjudicative-body
+  classification: committee
+  extras:
+    subclassification: adjudicative-body
 - name: Compliance Audit Committee
-  classification: adjudicative-body
+  classification: committee
+  extras:
+    subclassification: adjudicative-body
   founding_date: 2006
 - name: Property Standards Committee
-  classification: adjudicative-body
+  classification: committee
+  extras:
+    subclassification: adjudicative-body
   other_names:
     - name: Fence Viewers
 - name: Rooming House Licensing Commissioner
-  classification: adjudicative-body
+  classification: committee
   extras:
-    subclassification: officers
+    subclassification: adjudicative-body
 # vim:ft=ansible
