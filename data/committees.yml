@@ -1,5 +1,8 @@
 ---
 - name: City Council
+  classification: legislature
+  other_names:
+    - name: Toronto City Council
 - name: Audit Committee
   classification: committee
   extras:
@@ -50,7 +53,9 @@
   extras:
     subclassification: other
 - name: Etobicoke York Community Council
-  classification: community-council
+  classification: committee
+  extras:
+    subclassification: community-council
   founding_date: 1997
   other_names:
     - name: Etobicoke Community Council
@@ -61,7 +66,9 @@
       start_date: 1997
     - name: West Community Council
 - name: North York Community Council
-  classification: community-council
+  classification: committee
+  extras:
+    subclassification: community-council
   founding_date: 1997
   other_names:
     - name: Toronto North Community Council
@@ -69,13 +76,17 @@
       start_date: 1997
     - name: North Community Council
 - name: Scarborough Community Council
-  classification: community-council
+  classification: committee
+  extras:
+    subclassification: community-council
   founding_date: 1997
   other_names:
     - name: Toronto East Community Council
     - name: East Community Council
 - name: Toronto and East York Community Council
-  classification: community-council
+  classification: committee
+  extras:
+    subclassification: community-council
   founding_date: 1997
   other_names:
     - name: Toronto South Community Council
