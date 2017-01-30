@@ -1,8 +1,9 @@
 ---
-- name: City Council
+- name: Toronto City Council
   classification: legislature
   other_names:
-    - name: Toronto City Council
+    - name: City Council
+      note: short
 - name: Audit Committee
   classification: committee
   extras:
