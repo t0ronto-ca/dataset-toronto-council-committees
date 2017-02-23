@@ -2,7 +2,7 @@ setup:
 	pip install --quiet -r scripts/requirements-test.txt
 
 validate: setup ## Validate data
-	python scripts/jsonvalidate.py
+	python scripts/validate_yaml.py
 
 json: setup ## Generate JSON from YAML
 	python scripts/yaml2json.py < data/committees.yml > outputs/committees.json
