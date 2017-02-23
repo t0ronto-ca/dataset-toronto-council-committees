@@ -8,7 +8,9 @@ A dataset containing current committee data for Toronto City Hall
 
 ## Data
 
-Some short description of the data.
+**[`data/committees.yml`](data/commitees.yml).** A definition of all City of
+Toronto committees, in conformance with [Open Civic Data spec for
+organizations](https://opencivicdata.readthedocs.io/en/latest/data/organization.html).
 
 ## Scripts
 
