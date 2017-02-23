@@ -50,7 +50,7 @@
     subclassification: standing-policy
   other_names:
     - name: General Government Committee
-      end_date: 2007-03
+      end_date: '2007-03'
   identifiers:
     - scheme: tmmis_code
       identifier: GM
@@ -84,10 +84,10 @@
   founding_date: '1997'
   other_names:
     - name: Etobicoke Community Council
-      end_date: 2004-07
-      start_date: 2001-07
+      end_date: '2004-07'
+      start_date: '2001-07'
     - name: Toronto West Community Council
-      end_date: 2001-07
+      end_date: '2001-07'
       start_date: '1997'
     - name: West Community Council
 - name: North York Community Council
@@ -97,7 +97,7 @@
   founding_date: '1997'
   other_names:
     - name: Toronto North Community Council
-      end_date: 2004-07
+      end_date: '2004-07'
       start_date: '1997'
     - name: North Community Council
 - name: Scarborough Community Council
@@ -120,19 +120,19 @@
   classification: committee
   extras:
     subclassification: council-advisory-body
-  founding_date: 2011-05-19
-  dissolution_date: 2018-11-30
+  founding_date: '2011-05-19'
+  dissolution_date: '2018-11-30'
 - name: Affordable Housing Committee
   classification: executive
 - name: Bid Award Panel
-  founding_date: 2017-01-01
+  founding_date: '2017-01-01'
   identifiers:
     - scheme: tmmis_code
       identifier: BA
   other_names:
     - name: Bid Committee
 - name: Bid Committee
-  dissolution_date: 2017-01-01
+  dissolution_date: '2017-01-01'
   identifiers:
     - scheme: tmmis_code
       identifier: BD
@@ -141,7 +141,7 @@
   other_names:
     - name: Civic Theatres Toronto
       note: short
-  founding_date: 2015-07-09
+  founding_date: '2015-07-09'
 - name: Board of Directors of the Sony Centre for the Performing Arts
   classification: agency
   other_names:
@@ -190,8 +190,8 @@
   classification: committee
   extras:
     subclassification: council-advisory-body
-  founding_date: 2015-02-11
-  dissolution_date: 2018-11-30
+  founding_date: '2015-02-11'
+  dissolution_date: '2018-11-30'
 - name: Debenture Committee
 - name: Disability, Access and Inclusion Advisory Committee
   identifiers:
@@ -199,7 +199,7 @@
       identifier: DI
   other_names:
     - name: Disability Issues Committee
-      end_date: 2015-07-07
+      end_date: '2015-07-07'
 - name: Employee and Labour Relations Committee
   classification: executive
 - name: Exhibition Place Official Plan Amendment Subcommittee
@@ -208,8 +208,8 @@
   classification: committee
   extras:
     subclassification: council-advisory-body
-  founding_date: 2015-02-11
-  dissolution_date: 2018-11-30
+  founding_date: '2015-02-11'
+  dissolution_date: '2018-11-30'
 - name: George Bell Arena Nominating Panel
 - name: Graffiti Panel
 - name: Interview Subcommittee for Board of Health
@@ -239,24 +239,24 @@
   classification: committee
   extras:
     subclassification: council-advisory-body
-  founding_date: 2015-02-11
-  dissolution_date: 2018-11-30
+  founding_date: '2015-02-11'
+  dissolution_date: '2018-11-30'
 - name: Toronto Film, Television and Digital Media Board
   classification: committee
   extras:
     subclassification: council-advisory-body
-  founding_date: 2015-02-11
-  dissolution_date: 2018-11-30
+  founding_date: '2015-02-11'
+  dissolution_date: '2018-11-30'
   other_names:
     - name: Film, Television and Commercial Production Industry Committee
-      start_date: 2015-02-11
-      end_date: 2015-07-07
+      start_date: '2015-02-11'
+      end_date: '2015-07-07'
 - name: Toronto Music Industry Advisory Council
   classification: committee
   extras:
     subclassification: council-advisory-body
-  founding_date: 2015-02-11
-  dissolution_date: 2018-11-30
+  founding_date: '2015-02-11'
+  dissolution_date: '2018-11-30'
 - name: Toronto Preservation Board
 - name: Heritage Toronto
   classification: agency

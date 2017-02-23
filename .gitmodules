@@ -1,0 +1,3 @@
+[submodule "scripts/jsonschema"]
+	path = scripts/jsonschema
+	url = https://github.com/jpmckinney/pupa-ruby.git

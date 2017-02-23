@@ -1,8 +1,8 @@
 setup:
-	pip install -r scripts/requirements-test.txt
+	pip install --quiet -r scripts/requirements-test.txt
 
 validate: setup ## Validate data
-	@echo Validation command not yet implemented.
+	python scripts/jsonvalidate.py
 
 json: setup ## Generate JSON from YAML
 	python scripts/yaml2json.py < data/committees.yml > outputs/committees.json
