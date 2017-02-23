@@ -2,7 +2,10 @@ setup:
 	pip install -r scripts/requirements-test.txt
 
 validate: setup ## Validate data
-	goodtables datapackage datapackage.json
+	@echo Validation command not yet implemented.
+
+json: setup ## Generate JSON from YAML
+	python scripts/yaml2json.py < data/committees.yml > outputs/committees.json
 
 dummy: ## Perform a dummy action with outputs
 	python scripts/run_dummy_action.py

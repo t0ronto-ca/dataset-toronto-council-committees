@@ -23,6 +23,7 @@ Usage: make <command>
 where <command> is one of the following:
 
 validate             Validate data
+json                 Generate JSON from YAML
 dummy                Perform a dummy action with outputs
 ```
 
